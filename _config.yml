@@ -1,11 +1,11 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+title: 茶碗 Blog
+SEOTitle: 茶碗的博客 | Chawan Blog
 header-img: img/home-bg.jpg
 email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: "运维开发 |devops，kubernetes，hacker  | 这里是 @茶碗 的个人博客，与你一起发现更大的世界。"
+keyword: "茶碗, 茶茶碗, 茶碗的博客, 运维, 博客, 个人网站, 互联网, kubernetes, 容器, python, 设计"
+url: "http://chawanblog.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,10 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
+github_username:    chawanbid
+#twitter_username:   
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
@@ -59,7 +57,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: chawanbid
 
 # Netease settings
 netease_comment: false
@@ -79,7 +77,7 @@ ga_domain: huangxuan.me
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-feiman-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -106,5 +104,7 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-   
+        title: "Su",
+         href: "https://www.kkwen.cn"
+     },{
 ]
