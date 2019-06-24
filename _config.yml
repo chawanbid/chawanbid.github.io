@@ -104,7 +104,8 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "Su",
+    {
+        title: "kkwen博客",
          href: "https://www.kkwen.cn"
-     },{
+     }
 ]
